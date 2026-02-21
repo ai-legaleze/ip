@@ -54,8 +54,8 @@ pygmentsCodeFencesGuessSyntax = true
   series = "series"
 
 # Default section for content (e.g., for doc pages)
-[section _default]
-  images = ['featured-image.jpg']  # Default image for pages
+# [section _default]
+#  images = ['featured-image.jpg']  # Default image for pages
 
 # Build options (overrides for builds)
 [build]
