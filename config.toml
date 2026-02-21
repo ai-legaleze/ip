@@ -18,7 +18,7 @@ pygmentsCodeFencesGuessSyntax = true
 [params]
   # Theme-specific params (for Ananke theme; adjust for your theme)
   background_color_class = "bg-light"  # Lighter theme for professional/docs site
-  featured_image = "/images/ia-legalese-logo.svg"  # Path to org logo or featured image
+  featured_image = "/images/ai-legalese-logo.svg"  # Path to org logo or featured image
   recent_posts = 5  # Show more recent items for docs/changelogs
   description = "Documentation and resources for the AI Legalese organization on GitHub."
   favicon = "/favicon.ico"  # Org favicon
@@ -29,21 +29,17 @@ pygmentsCodeFencesGuessSyntax = true
     url = "/workflows/"
     weight = 1
   [[params.menu]]
-    name = "Issue Templates"
-    url = "/issue-templates/"
-    weight = 2
-  [[params.menu]]
     name = "Policies"
     url = "/policies/"
-    weight = 3
+    weight = 2
   [[params.menu]]
     name = "Contributing"
     url = "/contributing/"
-    weight = 4
+    weight = 3
   [[params.menu]]
-    name = "About IA Legalese"
+    name = "About AI Legalese"
     url = "/about/"
-    weight = 5
+    weight = 4
 
 # Organization info (instead of single author)
 [author]
